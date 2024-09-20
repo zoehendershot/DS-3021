@@ -97,7 +97,8 @@ The books below are essentially a starter Machine Learning Library. I will use a
 * C. [Python Machine Learning with PyTorch and Scikit-Learn, 4th Edition](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 * D. [Applied Predictive Learning, Kuh and Johnson](http://appliedpredictivemodeling.com/toc) - Expensive but very good/Also R based
 * E. [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)- Free PDF Version
-* H. [Mathematics for Machine Learning](https://mml-book.github.io/) Free PDF Version
+* F. [Mathematics for Machine Learning](https://mml-book.github.io/) Free PDF Version
+* G. [Machine Learning Enineering](https://leanpub.com/MLE) Low Cost
 
 
 ## Schedule of Topics 
