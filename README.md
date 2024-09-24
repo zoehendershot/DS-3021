@@ -41,7 +41,6 @@ Data Science is incredibly broad and dynamic. The topics below are designed to r
     
     Gain experience working in teams to solve Data driven problems
     Be able to describe the field of Machine Learning
-    Understand computational and mathematical foundations of the methods presented
     Articulate the advantages and disadvantages of selected ML approaches
     Be able to select appropriate ML models given problems and data types
     Understand the importance of and methods for evaluating ML models
