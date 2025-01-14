@@ -4,7 +4,7 @@
 ML1 In-Class
 .py file
 """
-
+#%%
 # import packages
 from pydataset import data
 import pandas as pd
